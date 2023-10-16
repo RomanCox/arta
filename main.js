@@ -89,7 +89,7 @@ document.querySelector('#app').innerHTML = `
     <a href='#' class="close">
       <img src="/close.svg" alt="close icon" width="12px" height="12px">
     </a>
-    <h1 id="title">Get Unlimited <br>Access</h1>
+    <h1 id="title">111Get Unlimited <br>Access</h1>
     <div class="features">
       <div class="feature">
         <picture>
