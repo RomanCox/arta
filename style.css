@@ -70,6 +70,7 @@ h1 {
     background-image: image-set("/bg14@1x.webp" 1x, "/bg14@2x.webp" 2x, "/bg14@3x.webp" 3x);
     background-repeat: round;
     background-size: 100%;
+    background-attachment: fixed;
 
     @media screen and (max-height: 811px) {
         background-image: image-set("/bg8@1x.webp" 1x, "/bg8@2x.webp" 2x, "/bg8@3x.webp" 3x);
