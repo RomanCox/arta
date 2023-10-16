@@ -85,12 +85,7 @@ const init = (data) => {
 
 document.querySelector('#app').innerHTML = `
   <div class="app-wrapper">
-    <picture class="background">
-      <source type="image/webp" srcset="/bg8@1x.webp 1x, /bg8@2x.webp 2x, /bg8@3x.webp 3x" media="(max-height: 811px)"/>
-      <source type="image/webp" srcset="/bg8@1x.png 1x, /bg8@2x.png 2x, /bg8@3x.png 3x" media="(max-height: 811px)"/>
-      <source type="image/webp" srcset="/bg14@1x.webp 1x, /bg14@2x.webp 2x, /bg14@3x.webp 3x"/>
-      <img src="/bg14@1x.png" srcset="/bg14@2x.png 2x, /bg14@3x.png 3x" alt="background">
-    </picture>
+    <div class="background"/>
     <a href='#' class="close">
       <img src="/close.svg" alt="close icon" width="12px" height="12px">
     </a>
