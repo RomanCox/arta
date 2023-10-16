@@ -85,7 +85,7 @@ const init = (data) => {
 
 document.querySelector('#app').innerHTML = `
   <div class="app-wrapper">
-    <div class="background"/>
+    <div class="background">
     <a href='#' class="close">
       <img src="/close.svg" alt="close icon" width="12px" height="12px">
     </a>
