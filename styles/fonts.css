@@ -1,0 +1,30 @@
+@font-face {
+    font-weight: 400;
+    font-family: SF Pro;
+    src: url("../public/fonts/SFProDisplay-Regular.eot");
+    src: url("../public/fonts/SFProDisplay-Regular.otf");
+    src: url("../public/fonts/SFProDisplay-Regular.ttf");
+    src: url("../public/fonts/SFProDisplay-Regular.woff");
+    src: url("../public/fonts/SFProDisplay-Regular.woff2");
+}
+
+@font-face {
+    font-weight: 600;
+    font-family: SF Pro;
+    src: url("../public/fonts/SFProDisplay-Semibold.eot");
+    src: url("../public/fonts/SFProDisplay-Semibold.otf");
+    src: url("../public/fonts/SFProDisplay-Semibold.ttf");
+    src: url("../public/fonts/SFProDisplay-Semibold.woff");
+    src: url("../public/fonts/SFProDisplay-Semibold.woff2");
+}
+
+
+@font-face {
+    font-weight: 900;
+    font-family: SF Pro;
+    src: url("../public/fonts/SFProDisplay-Heavy.eot");
+    src: url("../public/fonts/SFProDisplay-Heavy.otf");
+    src: url("../public/fonts/SFProDisplay-Heavy.ttf");
+    src: url("../public/fonts/SFProDisplay-Heavy.woff");
+    src: url("../public/fonts/SFProDisplay-Heavy.woff2");
+}
